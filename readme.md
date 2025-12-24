@@ -41,7 +41,7 @@
 #### 创建 KV 存储
 1. 在 Cloudflare Dashboard 中，进入 **Workers 和 Pages** → **KV**
 2. 点击 **创建命名空间**
-3. 命名空间名称：`TTS_HISTORY`
+3. 命名空间名称：`tts_kv`
 4. 点击 **添加**
 
 ![KV 创建步骤 1](screenshorts/kv_1.png)
