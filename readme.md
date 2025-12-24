@@ -1,4 +1,4 @@
-# CF-TTS Proxy Server (v1.2)
+# CF-TTS Proxy Server (v1.21)
 
 一个部署在 Cloudflare Pages 上的高性能文本转语音（TTS）代理服务，将微软 Edge TTS 封装成兼容 OpenAI API 的接口。
 
@@ -52,7 +52,7 @@
 3. 点击 **添加绑定**
 4. 配置：
    - **变量名**: `TTS_HISTORY`
-   - **KV 命名空间**: 选择刚创建的 `TTS_HISTORY`
+   - **KV 命名空间**: 选择刚创建的 `tts_kv`
 5. 点击 **保存并部署**
 
 ![KV 绑定步骤 2](screenshorts/kv_2.png)
