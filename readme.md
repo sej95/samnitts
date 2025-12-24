@@ -23,7 +23,7 @@
 
 1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com)
 2. 点击 **Workers 和 Pages** → **创建应用程序** → **Pages** → **上传资产**
-3. 上传 [v1.2 Release](https://github.com/samni728/edgetts-cloudflare-workers-webui/releases/tag/v1.2) 在添加变量和 kv 后务必在重新部署一次才能生效！
+3. 上传 [v1.21 Release](https://github.com/sej95/samnitts/releases/tag/v1.21) 在添加变量和 kv 后务必在重新部署一次才能生效！
 
 ### 2. 配置环境变量
 
